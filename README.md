@@ -16,7 +16,9 @@ You can remove all of the test environment from your PC.
 
 1. Log off from VM(CentOS).
 2. Execute a command listed below at the directory "Terraform".
-`$ vagrant destroy`
+`
+$ vagrant destroy
+`
 3. Remove all of the software which were installed for this test.
 
 
