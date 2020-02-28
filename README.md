@@ -20,7 +20,7 @@ You can deploy the test environment on your PC easily.
   $ vagrant up
   ```
 4. Wate for a 5 minutes. After that, a VM (CentOS) will be deployed on Virtual Box. Terraform, Go and the Terraform provider are installed.
-5. Execute a command listed below for logging in to the CentOS.
+5. Execute a command listed below to login to the CentOS.
   ```
   $ vagrant ssh
   ```
