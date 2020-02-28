@@ -12,7 +12,13 @@ Before you try it, you need to install some software listed below in your PC.
 
 
 ## Usage
-
+You can deploy the test environment on your PC easily.
+1. Clone this repo into your PC.
+2. Move to a directory of the repo.
+3. Execute a command below.
+4. Wate for a 5 minutes. After that, a VM (CentOS) will be deployed on Virtual Box.
+5. Execute a command for logging in to the CentOS.
+6. Follow the process listed in [Terraform provider for VMware Cloud on AWS](https://github.com/vmware/terraform-provider-vmc). 
 
 ## Clean up
 You can remove all of the test environment from your PC.
