@@ -9,9 +9,7 @@ sudo yum -y install wget unzip go
 sudo mkdir /usr/local/go
 echo "GOPATH=/usr/local/go" >> /home/vagrant/.bash_profile
 echo "export GOPATH" >> /home/vagrant/.bash_profile
-sudo mkdir /usr/local/go/bin 
-sudo mkdir /usr/local/go/pkg 
-sudo mkdir /usr/local/go/src
+sudo mkdir /usr/local/go/bin pkg src
 
 
 ## Install Terraform
